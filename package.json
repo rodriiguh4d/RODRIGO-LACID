@@ -1,0 +1,25 @@
+{
+  "name": "rodrigo-lacid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriiguh4d/RODRIGO-LACID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rodriiguh4d/RODRIGO-LACID/issues"
+  },
+  "homepage": "https://github.com/rodriiguh4d/RODRIGO-LACID#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
